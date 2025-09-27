@@ -14,6 +14,10 @@ This project is an **end-to-end stock market prediction system** built with **Py
 - Saves and loads trained models for future use  
 
 ---
+## 📸 Screenshots  
+ 
+### 🌿 Prediction Result  
+![Prediction](stock.png)
 
 ## **Features**
 
